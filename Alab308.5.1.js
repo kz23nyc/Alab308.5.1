@@ -5,7 +5,7 @@
     return numbers.reduce((sum, num) => sum + num, 0);
   }
   
-   console.log(sumArray([12,13,14,15,16])); //71
+   console.log(sumArray([12,13,14,15,16])); //70
 
 // Take an array of numbers and return the average.
 
